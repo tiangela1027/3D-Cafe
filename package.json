@@ -1,0 +1,16 @@
+{
+  "name": "udemy_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.10.2",
+    "three": "^0.117.1"
+  },
+  "devDependencies": {}
+}
